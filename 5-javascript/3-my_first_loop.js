@@ -1,6 +1,7 @@
-var i = 0;
-for (i<=100) {
-  console.log(i);
-  i++;
+function myFunction() {
+  console.log("hello world");
+}
 
+function myDoubler(x) {
+  console.log(x*2);
 }
